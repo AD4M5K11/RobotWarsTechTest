@@ -9,7 +9,6 @@ namespace RobotWars.Build
     public class Arena
     {
         public int Width { get;  set; }
-
         public int Height { get;  set; }
     }
 }
